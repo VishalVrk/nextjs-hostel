@@ -1,0 +1,60 @@
+{
+"blogs":[
+    {
+      "id": 1,
+      "title": "Blog 1",
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis lobortis turpis, quis egestas sapien. Integer auctor lacinia nisi, et vestibulum ligula scelerisque ut."
+    },
+    {
+      "id": 2,
+      "title": "Blog 2",
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "content": "Praesent id eleifend mi. Phasellus venenatis consequat purus, ut ultricies nulla rutrum in. Nullam eget nibh vitae dolor malesuada fringilla."
+    },
+    {
+      "id": 3,
+      "title": "Blog 3",
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "content": "Aenean sed ultrices ex. Cras vehicula ullamcorper magna, nec egestas dui bibendum nec. Nulla ac eros nec ligula fermentum blandit."
+    }
+  ],
+  "yogaschools": [
+    {
+      "id": 1,
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "name": "Sunrise Yoga Academy",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "name": "Zen Harmony Yoga Center",
+      "location": "New York, NY"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "name": "Lotus Yoga Studio",
+      "location": "Austin, TX"
+    }
+  ],
+  "iternary":[
+    {
+      "id": 1,
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "name": "Sunrise Yoga Academy"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "name": "Zen Harmony Yoga Center"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://via.placeholder.com/500x300.png?text=Dummy+Image",
+      "name": "Lotus Yoga Studio"
+    }
+  ]
+}
+  
